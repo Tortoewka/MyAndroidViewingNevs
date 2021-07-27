@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyAndroidViewingNevs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="TextNevs1"> текст первой новости</string>
+    <string name="TextNevs2"> текст второй новости</string>
+    <string name="TextNevs3"> текст третьей новости</string>
+    <string name="TextNevs4"> текст четвертой новости</string>
+    <string name="TextNevs5"> текст пятой новости</string>
+    <string name="Nevs1"> первый заголовок </string>
+    <string name="Nevs2"> второй заголовок </string>
+    <string name="Nevs3"> третий заголовок</string>
+    <string name="Nevs4"> четвертый заголовок</string>
+    <string name="Nevs5"> пятый заголовок</string>
+    <string name="textview">TextView</string>
+
+</resources>

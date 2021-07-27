@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="NameNevsArray">
+        <item>@string/Nevs1</item>
+        <item>@string/Nevs2</item>
+        <item>@string/Nevs3</item>
+        <item>@string/Nevs4</item>
+        <item>@string/Nevs5</item>
+    </string-array>
+    <string-array name="TextNevsArray">
+        <item>@string/TextNevs1</item>
+        <item>@string/TextNevs2</item>
+        <item>@string/TextNevs3</item>
+        <item>@string/TextNevs4</item>
+        <item>@string/TextNevs5</item>
+
+    </string-array>
+
+</resources>
